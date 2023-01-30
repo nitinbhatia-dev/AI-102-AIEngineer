@@ -58,3 +58,8 @@
 22-create-a-search-solution/C-Sharp/margies-travel/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
 22-create-a-search-solution/C-Sharp/margies-travel/obj/Debug/netcoreapp3.1/search-client.AssemblyInfo.cs
 22-create-a-search-solution/C-Sharp/margies-travel/obj/Debug/netcoreapp3.1/search-client.AssemblyInfoInputs.cache
+*.cache
+*.editorConfig
+*AssemblyInfo.cs
+*AssemblyAttributes.cs
+project.razor.json
